@@ -1,0 +1,17 @@
+{
+    "configurations": [
+        {
+            "name": "windows-gcc-x86",
+            "includePath": [
+                "${workspaceFolder}/**"
+            ],
+            "compilerPath": "C:/MinGW/bin/gcc.exe",
+            "cStandard": "gnu89",
+            "cppStandard": "gnu++98",
+            "intelliSenseMode": "windows-gcc-x86",
+            "compilerArgs": [],
+            "configurationProvider": "BartmanAbyss.amiga-debug"
+        }
+    ],
+    "version": 4
+}
